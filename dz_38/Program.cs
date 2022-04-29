@@ -38,4 +38,4 @@ for (int i = 0; i < mass.Length; i++)
 }
 Print(mass);
 Console.WriteLine();
-Console.WriteLine($"Сумма элементов на четных позициях: {Raz(mass)}");
+Console.WriteLine($"Разница мезду максимальным и минимальным чеслом равна: {Raz(mass)}");
